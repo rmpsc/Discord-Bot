@@ -17,14 +17,12 @@ act = [discord.Game('Gridshot'), discord.Game('myself :/'),
     discord.Game('Tik Tak Toe'), discord.Game('BEYBLADE'), discord.Game('Yu-Gi-Oh!'),
     discord.Game('Pokémon GO'), discord.Game('Pocket God'),
     discord.Game('coolmathgames.com'), discord.Game('Search and Destroy in Terminal'),
+    discord.Game('Unrated'), discord.Game('Ranked'), discord.Game('Spike Rush'), discord.Game('DM'),
     discord.Activity(type=discord.ActivityType.listening, name='Ram Ranch'),
     discord.Activity(type=discord.ActivityType.listening, name='NIKI'),
     discord.Activity(type=discord.ActivityType.listening, name='Joji'),
-    discord.Activity(type=discord.ActivityType.listening, name='Ginuwine'),
-    discord.Activity(type=discord.ActivityType.listening, name='Take Care'),
     discord.Activity(type=discord.ActivityType.watching, name='TenZ'),
-    discord.Activity(type=discord.ActivityType.watching, name='Game of Thrones'),
-    discord.Activity(type=discord.ActivityType.watching, name='HIMYM'),
+    discord.Activity(type=discord.ActivityType.watching, name='GoT'),
     discord.Activity(type=discord.ActivityType.watching, name='Rick and Morty')]
 
 
