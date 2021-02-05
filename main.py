@@ -17,7 +17,7 @@ act = [discord.Game('Gridshot'), discord.Game('myself :/'),
     discord.Game('Tik Tak Toe'), discord.Game('BEYBLADE'), discord.Game('Yu-Gi-Oh!'),
     discord.Game('Pokémon GO'), discord.Game('Pocket God'),
     discord.Game('coolmathgames.com'), discord.Game('Search and Destroy in Terminal'),
-    discord.Game('Unrated'), discord.Game('Ranked'), discord.Game('Spike Rush'), discord.Game('DM'),
+    discord.Game('Unrated'), discord.Game('Ranked'), discord.Game('Spike Rush'), discord.Game('Deathmatch'),
     discord.Activity(type=discord.ActivityType.listening, name='Ram Ranch'),
     discord.Activity(type=discord.ActivityType.listening, name='NIKI'),
     discord.Activity(type=discord.ActivityType.listening, name='Joji'),
@@ -29,7 +29,7 @@ act = [discord.Game('Gridshot'), discord.Game('myself :/'),
 # TASKS
 @tasks.loop(hours=1)
 async def change_status():
-    await bot.change_presence(status=random.choice(stat), activity=random.choice(act))
+    await bot.change_presence(status=discord.Status.dnd, activity=random.choice(act))
 
 
 # EVENTS
