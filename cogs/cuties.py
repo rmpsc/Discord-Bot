@@ -3,7 +3,7 @@ import requests
 import random
 from discord.ext import commands
 
-class Simba(commands.Cog):
+class Cuties(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -37,4 +37,4 @@ class Simba(commands.Cog):
 
 # sets up cog
 def setup(client):
-    client.add_cog(Simba(client))
+    client.add_cog(Cuties(client))
