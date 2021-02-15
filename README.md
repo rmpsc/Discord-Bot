@@ -1,3 +1,6 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/b5WpUtD)
+
 # Todoroki - Discord Bot
 Discord bot created with the discord.py API wrapper and used for my personal server with friends/family. Provides both conveinent and fun features for all server members to utilize.
 
