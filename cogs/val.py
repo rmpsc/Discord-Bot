@@ -20,7 +20,7 @@ class Val(commands.Cog):
 
     @commands.command()
     async def agent(self, ctx):
-        agents = ['pick jett wdym <:tenz:760654681272877116>', 'brim baby', 'breach lol', 'gib me a corpse', 'omen diff', 'JOKE SOVA YA DED', 'bomb buddy out', 'ysas main', 'YOUR DUTY IS NOT OVAH', 'shak dart', 'snake ass foo', 'zoo keeper', 'kevin nguyen']
+        agents = ['pick jett wdym <:tenz:760654681272877116>', 'brim baby', 'breach lol', 'gib me a corpse', 'omen diff', 'JOKE SOVA YA DED', 'bomb buddy out', 'ysas main', 'YOUR DUTY IS NOT OVAH', 'shak dart', 'snake ass foo', 'zoo keeper', 'kevin nguyen', 'michonne']
         await ctx.send(random.choice(agents))
 
 # sets up cog
