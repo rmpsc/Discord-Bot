@@ -1,6 +1,6 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<img src="https://i.gyazo.com/83ae3a4d6e437a6410a37cbd4aef7af1.png" width="500">
 
-# Discord Bot
+# Todoroki Discord Bot
 Discord bot created with the discord.py API wrapper. Provides both conveinent and fun features for all server members to utilize.
 
 
@@ -9,6 +9,7 @@ Discord bot created with the discord.py API wrapper. Provides both conveinent an
 - Client secret token is stored in .env file to maintain privacy
 
 ## Uptime Robot
+<img src="https://i.gyazo.com/bf2c722ab0ba8004e85b1b37b8ab6944.png" width="500">
 - Pings bot every 5 minutes to keep bot running
 - Reliable pings with a 99.97% success rate
 
