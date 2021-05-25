@@ -10,6 +10,7 @@ Discord bot created with the discord.py API wrapper. Provides both conveinent an
 
 ## Uptime Robot
 <img src="https://i.gyazo.com/bf2c722ab0ba8004e85b1b37b8ab6944.png" width="500">
+
 - Pings bot every 5 minutes to keep bot running
 - Reliable pings with a 99.97% success rate
 
