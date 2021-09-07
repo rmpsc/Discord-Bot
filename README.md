@@ -1,7 +1,7 @@
 <img src="https://i.gyazo.com/83ae3a4d6e437a6410a37cbd4aef7af1.png" width="500">
 
 # Todoroki Discord Bot
-Discord bot created with the discord.py API wrapper. Provides both conveinent and fun features for all server members to utilize.
+Discord bot created with the discord.py library. Provides both conveinent and fun features for all server members to utilize.
 
 
 ## Repl.it
